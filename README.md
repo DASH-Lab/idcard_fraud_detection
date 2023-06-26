@@ -1,12 +1,12 @@
-# KID34K: A Dataset for Online Identity Card Fraud Detection
 
+# <div align=center> KID34K: A Dataset for Online Identity Card Fraud Detection </div>
 
-This repository is for KID34K: A Dataset for Online Identity Card Fraud Detection.
+This repository is for *KID34K: A Dataset for Online Identity Card Fraud Detection.*
 We present a novel dataset for ID card fraud detection.
 Here are some samples of the dataset. 
 After acceptance, we will provide the download link for all of the dataset.
 
-## Samples 
+## Samples of the dataset
 
 ### 1. U02_DL
    - genuine
