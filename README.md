@@ -5,7 +5,6 @@ After acceptance, we will provide the download link for all of the dataset.
 
 1. U02_DL
    - genuine
-
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/fe8df053-6827-4592-a72f-b9561bdabd56" width=20% height = 20%>
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/16872bab-ba73-4a7d-aa05-b139a9542c58" width=20% height = 20%>
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/bd715665-439e-4347-96fa-0827e6860ec4" width=20% height = 20%>
@@ -23,15 +22,15 @@ After acceptance, we will provide the download link for all of the dataset.
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/a0dbecf0-29b2-41cb-879b-32498f0a7c43" width=20% height = 20%>
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/cc0c9058-c881-4168-9737-d08d9fed9d1b" width=20% height = 20%>
 
-   - print
-  
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
+   - print  
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/139b3cad-2a04-45fb-a3b3-2fe07e8050f4" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/f5364004-4a79-4f74-bf15-67fcf1ace25d" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/cbf1ed73-ec2f-4a14-974b-58d0777def10" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/52f159de-81b3-474d-846d-8e2e1e3b9ebc" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/b7bc8677-dee7-4293-a6f2-8259763807bb" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/6751f3b8-2779-4586-94d2-4a989ffc8a58" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/b2cc3968-15ca-4e04-a22b-648fda1d84fa" width=20% height = 20%>
+
 
 2. U07_DL
    - genuine
