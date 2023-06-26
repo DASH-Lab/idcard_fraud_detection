@@ -6,7 +6,7 @@ After acceptance, we will provide the download link for all of the dataset.
 1. U02_DL
    - genuine
 
-|<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/fe8df053-6827-4592-a72f-b9561bdabd56" width=20% height = 20%>|<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/16872bab-ba73-4a7d-aa05-b139a9542c58" width=20% height = 20%>|
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/fe8df053-6827-4592-a72f-b9561bdabd56" width=20% height = 20%><img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/16872bab-ba73-4a7d-aa05-b139a9542c58" width=20% height = 20%>
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/bd715665-439e-4347-96fa-0827e6860ec4" width=20% height = 20%>
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/d47add44-70c3-46ef-b575-acbbac9159d2" width=20% height = 20%>
 <img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/83b3c495-56b4-4e48-b9dd-3ef8733dbb46" width=20% height = 20%>
