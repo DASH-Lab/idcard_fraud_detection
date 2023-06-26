@@ -56,23 +56,25 @@ After acceptance, we will provide the download link for all of the dataset.
 
    - print
 
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-<img src="" width=20% height = 20%>
-![DL_010#print#19#20221109104203_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/1cf10324-7cdf-4043-b21c-e8cea34c9505)
-![DL_010#print#16#20221111174811_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/0a66699e-507f-4694-996e-dd1d3606e10a)
-![DL_010#print#14#20221108165011_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/d0b9dcf6-d45b-4ffc-b740-661bd0f906ff)
-![DL_010#print#10#20221108165023_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/b5c46f5b-c884-4142-b88e-2a791f18d6f0)
-![DL_010#print#3#20221109104210_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/81b9e223-4e65-4895-ab78-0f9fed622140)
-![DL_010#print#2#20221111144744_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/efec01c0-26a6-420c-b9c7-80da47f5ed71)
-![DL_010#print#1#20221111174020_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/d1fd6edf-ca84-44ce-871a-f6b101d495f3)
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/1cf10324-7cdf-4043-b21c-e8cea34c9505" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/0a66699e-507f-4694-996e-dd1d3606e10a" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/d0b9dcf6-d45b-4ffc-b740-661bd0f906ff" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/b5c46f5b-c884-4142-b88e-2a791f18d6f0" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/81b9e223-4e65-4895-ab78-0f9fed622140" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/efec01c0-26a6-420c-b9c7-80da47f5ed71" width=20% height = 20%>
+<img src="https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/d1fd6edf-ca84-44ce-871a-f6b101d495f3" width=20% height = 20%>
+
 
 3. U07_ID
    - genuine
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+
 ![ID_125#genuine#34#20221109132556_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/93f8f10b-f9bb-4fac-937f-3c4099f2562d)
 ![ID_125#genuine#31#20221114154355_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/1baa949b-d541-484a-87c2-8f9b6b3c72a5)
 ![ID_125#genuine#27#20221114142934_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/ea121f1e-c4e6-41f8-8f50-8f536800c9ed)
@@ -82,6 +84,14 @@ After acceptance, we will provide the download link for all of the dataset.
 ![ID_125#genuine#38#20221114102235_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/1e91cfea-6820-45b9-9dab-6e7f0b152d4e)
 
    - screen
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+
 ![ID_125#screen#187#20221109164440_cropImage_w582_h907](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/a4ff9b19-95bf-41d3-aef9-56fdcabfaeee)
 ![ID_125#screen#185#20221110181030_cropImage_w882_h554](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/88f4ca0e-dc1b-4a52-aa02-de725cfc3975)
 ![ID_125#screen#181#20221109183939_cropImage_w572_h905](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/00ca4eb6-9929-4868-8a6d-da7adcdaf688)
@@ -91,6 +101,13 @@ After acceptance, we will provide the download link for all of the dataset.
 ![ID_125#screen#169#20221111144437_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/c5b51c00-bf8d-4e6e-80d7-40ef61f5ec54)
 
    - print
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
 ![ID_125#print#88#20221109103729_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/120b7eb7-bf8d-475a-871a-c7b14e53ecf9)
 ![ID_125#print#86#20221109104355_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/214195c0-e98a-4b36-9fe5-a8fc5a365322)
 ![ID_125#print#78#20221114135709_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/a9b7b30d-adb6-4078-bb75-5925333c073a)
@@ -101,6 +118,14 @@ After acceptance, we will provide the download link for all of the dataset.
 
 4. U12_DL
    - genuine
+  
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
 ![DL_003#genuine#15#20221111180528_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/c391b0e9-b130-465a-9039-9d95154b6d2a)
 ![DL_003#genuine#13#20221109141727_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/ecfe2e1b-8fc9-4e77-b4f8-a5fdcbd1d90f)
 ![DL_003#genuine#11#20221109100603_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/09e13cc2-ef8b-41bf-abbe-ebbbcbbac2d1)
@@ -110,6 +135,15 @@ After acceptance, we will provide the download link for all of the dataset.
 ![DL_003#genuine#17#20221111164445_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/9f5adc7a-2179-4278-9ecf-9a3029c8249c)
 
    - screen
+
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+
 ![DL_003#screen#89#20221109160849_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/a848f92d-9f0a-4c69-be7e-974d55fde802)
 ![DL_003#screen#76#20221109161456_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/6e0cca19-6329-481e-a55f-aa67222d0548)
 ![DL_003#screen#67#20221109163151_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/d902f5b9-3a9f-442d-a1db-ec38da78d1e3)
@@ -119,6 +153,14 @@ After acceptance, we will provide the download link for all of the dataset.
 ![DL_003#screen#90#20221109163628_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/89cd1dcb-978d-4aed-9939-58a671a19408)
 
    - print
+
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
 ![DL_003#print#64#20221111144631_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/315471e6-146b-4e9b-8af2-f28878947ed4)
 ![DL_003#print#62#20221111142732_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/9f5823b3-e0ef-47f0-a691-0bb143969d7d)
 ![DL_003#print#60#20221111145047_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/945de30c-b348-44c0-9693-1954c1f28852)
@@ -129,6 +171,14 @@ After acceptance, we will provide the download link for all of the dataset.
 
 5. U12_ID
    - genuine
+  
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
 ![ID_130#genuine#23#20221109145112_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/584accc9-49d7-46d0-93f9-ce0f8a418d48)
 ![ID_130#genuine#22#20221111175850_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/e6a4f94e-4b56-4c81-b303-7edd69903c30)
 ![ID_130#genuine#20#20221111170807_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/fbefca95-1048-4d0f-aa7e-75a7e6991af3)
@@ -138,6 +188,14 @@ After acceptance, we will provide the download link for all of the dataset.
 ![ID_130#genuine#28#20221111155308_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/bc6603ca-f2ef-41e5-92a9-bec56a5c3d75)
 
    - screen
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+
 ![ID_130#screen#98#20221111183939_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/9c0a5904-2cf2-4dfa-866e-1699b6c253b1)
 ![ID_130#screen#94#20221111162535_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/f287ae6f-5a4e-40ad-a29a-d0e42384f050)
 ![ID_130#screen#93#20221111162827_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/a6965033-62d5-4f4c-9208-3241dfb62f86)
@@ -147,6 +205,14 @@ After acceptance, we will provide the download link for all of the dataset.
 ![ID_130#screen#99#20221109154719_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/538c9376-d71b-4113-8719-70c85fd49999)
 
    - print
+
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
+<img src="" width=20% height = 20%>
 ![ID_130#print#125#20221111143050_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/87f5ed16-0459-44ea-a284-3299dac6e80b)
 ![ID_130#print#124#20221111163225_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/ffaad3f6-2ecf-4d81-b342-794706b1c916)
 ![ID_130#print#121#20221109102936_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/0202ece5-502a-4fcf-a104-a672e148e0f7)
