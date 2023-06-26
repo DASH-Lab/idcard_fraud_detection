@@ -5,7 +5,10 @@ After acceptance, we will provide the download link for all of the dataset.
 
 1. U02_DL
    - genuine
-  ![DL_008#genuine#64#20221111155222_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/fe8df053-6827-4592-a72f-b9561bdabd56)
+
+<img src="![DL_008#genuine#64#20221111155222_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/fe8df053-6827-4592-a72f-b9561bdabd56)" width=20% height = 20%>
+
+  
 ![DL_008#genuine#63#20221109141221_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/16872bab-ba73-4a7d-aa05-b139a9542c58)
 ![DL_008#genuine#62#20221109141206_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/bd715665-439e-4347-96fa-0827e6860ec4)
 ![DL_008#genuine#58#20221111155359_Android_Crop_image](https://github.com/DASH-Lab/idcard_fraud_detection/assets/79193743/d47add44-70c3-46ef-b575-acbbac9159d2)
