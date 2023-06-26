@@ -4,7 +4,8 @@
 This repository is for *KID34K: A Dataset for Online Identity Card Fraud Detection.*
 We present a novel dataset for ID card fraud detection.
 Here are some samples of the dataset. 
-After acceptance, we will provide the download link for all of the dataset.
+After acceptance, we will provide the [download link](https://github.com/DASH-Lab/idcard_fraud_detection) for all of the dataset.
+
 
 ## Samples of the dataset
 
